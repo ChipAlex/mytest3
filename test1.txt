@@ -1,5 +1,1 @@
 ﻿qq
-Строка на русском
-Новая строка
-Новая ветка
-git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
