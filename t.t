@@ -6,7 +6,7 @@
      .florange5{ font-size:14pt}
      .h1_1 {color:#ed650a; font-style:italic}
   body { color:#060678;font-size:14pt; }
-  
+**********new string************  
 a { color:#0033CC; font-weight:bold}
 a:visited {color:#990099}
 a:hover {color:#CC00CC; font-weight:bold}   
