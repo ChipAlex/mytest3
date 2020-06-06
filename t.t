@@ -8,5 +8,9 @@
   body { color:#060678;font-size:14pt; }
 **********new string************  
 a { color:#0033CC; font-weight:bold}
+**********
+new string2 
+new string3 
+****************************** 
 a:visited {color:#990099}
 a:hover {color:#CC00CC; font-weight:bold}   
