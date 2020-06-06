@@ -13,4 +13,8 @@ new string2
 new string3 
 ****************************** 
 a:visited {color:#990099}
+*******************************
+qqqqqqqqqqqqqqqqqqqqqq
+qq new string added
+*************qqqqqqq
 a:hover {color:#CC00CC; font-weight:bold}   
